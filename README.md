@@ -3,9 +3,7 @@ I created a C# language tutorial that spans from learning basic syntax to learni
 
 How the tutorial works is that it splits up every topic into different modules. Within those modules, there is a Program class that has all you need to run the program correctly. If you have installed all the things needed to run C#, you should be good to run each of the modules with 'dotnet run'. Within the modules, there are commented lines that teach about the topic the modules cover. The tutorial is meant to be easy, user-friendly, and fun while learning a new programming language to put in your repertoire to use whenever you may need to. The goal of this tutorial isn't to overwhelm you, but the goal is to excite you about learning C#, which will then hopefully carry over to learning new languages as well.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bHyohC05bd0)
 
 # Development Environment
 

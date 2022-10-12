@@ -17,8 +17,6 @@
 {Describe the programming language that you used and any libraries.}
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [C# Tutorial (Personal Playlist from YouTube)](https://www.youtube.com/playlist?list=PLJQGPbE_yo6OJyg7XmNn0ho5nUVmecGE0)
 * [Install and use a package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli)
 * [Primitive Data Type](https://www.techopedia.com/definition/29494/primitive-data-type)

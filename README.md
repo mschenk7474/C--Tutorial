@@ -12,9 +12,12 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools I used to develop this software are as listed:
+* VSCode - IDE
+* C# - Programming Language
+* .NET - Framework to Compile and Build C# Programs
 
-{Describe the programming language that you used and any libraries.}
+As explained above, the programming language I used was C# and I also used the .NET framework, which is used hand and hand with C# to be able to run and compile the programs. I only used the basic libraries of 'System' and 'System.Collections' throughout the software.
 
 # Useful Websites
 * [C# Tutorial (Personal Playlist from YouTube)](https://www.youtube.com/playlist?list=PLJQGPbE_yo6OJyg7XmNn0ho5nUVmecGE0)

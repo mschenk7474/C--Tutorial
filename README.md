@@ -21,6 +21,11 @@
 {Make a list of websites that you found helpful in this project}
 * [C# Tutorial (Personal Playlist from YouTube)](https://www.youtube.com/playlist?list=PLJQGPbE_yo6OJyg7XmNn0ho5nUVmecGE0)
 * [Install and use a package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli)
+* [Primitive Data Type](https://www.techopedia.com/definition/29494/primitive-data-type)
+* [C# Enum](https://www.w3schools.com/cs/cs_enums.php)
+* [Conditional Statements in C#](https://www.c-sharpcorner.com/UploadFile/8af593/conditional-statement-in-C-Sharp/)
+* [C# Expressions, Statements and Blocks (With Examples)](https://www.programiz.com/csharp-programming/expressions-statements-blocks)
+* [ArrayList in C#](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)
 
 
 # Future Work

@@ -20,7 +20,7 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Install and use a package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli)
-* [Web Site Name](http://url.link.goes.here)
+* [C# Tutorial](https://www.youtube.com/playlist?list=PLJQGPbE_yo6OJyg7XmNn0ho5nUVmecGE0)
 
 # Future Work
 * Add additional modules about other C# data structures

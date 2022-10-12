@@ -19,12 +19,10 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Install and use a package with the dotnet CLI](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add additional modules about other C# data structures
+* Make the tutorial more user interactive
+* Make a menu where the user can choose which module to learn

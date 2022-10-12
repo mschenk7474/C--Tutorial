@@ -1,0 +1,15 @@
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/bin/Debug/net6.0/variables
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/bin/Debug/net6.0/variables.deps.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/bin/Debug/net6.0/variables.runtimeconfig.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/bin/Debug/net6.0/variables.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/bin/Debug/net6.0/variables.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.csproj.AssemblyReference.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.AssemblyInfoInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.AssemblyInfo.cs
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.csproj.CoreCompileInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/refint/variables.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/variables.genruntimeconfig.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/variables/obj/Debug/net6.0/ref/variables.dll

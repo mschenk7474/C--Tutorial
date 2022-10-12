@@ -1,0 +1,15 @@
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/bin/Debug/net6.0/conditionals
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/bin/Debug/net6.0/conditionals.deps.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/bin/Debug/net6.0/conditionals.runtimeconfig.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/bin/Debug/net6.0/conditionals.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/bin/Debug/net6.0/conditionals.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.csproj.AssemblyReference.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.AssemblyInfoInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.AssemblyInfo.cs
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.csproj.CoreCompileInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/refint/conditionals.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/conditionals.genruntimeconfig.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/conditionals/obj/Debug/net6.0/ref/conditionals.dll

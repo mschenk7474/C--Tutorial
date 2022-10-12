@@ -1,0 +1,15 @@
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/bin/Debug/net6.0/classes
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/bin/Debug/net6.0/classes.deps.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/bin/Debug/net6.0/classes.runtimeconfig.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/bin/Debug/net6.0/classes.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/bin/Debug/net6.0/classes.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.csproj.AssemblyReference.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.AssemblyInfoInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.AssemblyInfo.cs
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.csproj.CoreCompileInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/refint/classes.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/classes.genruntimeconfig.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/classes/obj/Debug/net6.0/ref/classes.dll

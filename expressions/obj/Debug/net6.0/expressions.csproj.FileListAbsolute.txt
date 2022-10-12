@@ -1,0 +1,15 @@
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/bin/Debug/net6.0/expressions
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/bin/Debug/net6.0/expressions.deps.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/bin/Debug/net6.0/expressions.runtimeconfig.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/bin/Debug/net6.0/expressions.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/bin/Debug/net6.0/expressions.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.csproj.AssemblyReference.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.AssemblyInfoInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.AssemblyInfo.cs
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.csproj.CoreCompileInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/refint/expressions.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/expressions.genruntimeconfig.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/expressions/obj/Debug/net6.0/ref/expressions.dll

@@ -1,0 +1,15 @@
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/bin/Debug/net6.0/inheritance
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/bin/Debug/net6.0/inheritance.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/bin/Debug/net6.0/inheritance.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/refint/inheritance.dll
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.pdb
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
+/Users/masonschenk/Documents/BYUI/BYUI Fall 2022/Applied Programming/C#/C# Tutorial/inheritance/obj/Debug/net6.0/ref/inheritance.dll
